@@ -44,7 +44,7 @@ const movies = [
     },
 
     {
-        title: "그란 투리스모 포스터", year: 2023, date0: "2023-08-09", rating: 7.7,
+        title: "그란 투리스모", year: 2023, date: "2023-08-09", rating: 7.7,
         audience: 0, poster: "https://image.tmdb.org/t/p/w342/mewjjhpju5JT1wDFJDMdctWcCqd.jpg", type: "mine", rank: null
     },
 
@@ -70,7 +70,7 @@ const movies = [
     },
 
     {
-        title: "타짜: 벨제붑의 노래", year: 2026, date: "2026-09-23", rating: 7.4,
+        title: "타짜: 벨제붑의 노래", year: 2026, date: "2026-09-23", rating: 7.0,
         audience: 1999477, poster: "https://image.tmdb.org/t/p/w342/ueigb5zra1tj6FTK9yhh2P33P9B.jpg", type: "boxoffice", rank: 4
     },
 
